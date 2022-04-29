@@ -1,7 +1,10 @@
 #Apple News
-DOMAIN-SUFFIX,gateway.icloud.com
-DOMAIN-SUFFIX,news-assets.apple.com
-DOMAIN-SUFFIX,news-events.apple.com
-DOMAIN-SUFFIX,news-edge.apple.com
-DOMAIN-SUFFIX,apple.comscoreresearch.com
+DOMAIN,gateway.icloud.com
+DOMAIN,news-assets.apple.com
+DOMAIN,news-events.apple.com
+DOMAIN,news-edge.apple.com
+DOMAIN,news-client-search.apple.com
+DOMAIN,news-client.apple.com
+DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,apple.news
+PROCESS-NAME,news
