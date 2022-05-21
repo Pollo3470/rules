@@ -7,4 +7,6 @@ DOMAIN,news-client-search.apple.com
 DOMAIN,news-client.apple.com
 DOMAIN,apple.comscoreresearch.com
 DOMAIN-SUFFIX,apple.news
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
 PROCESS-NAME,news
