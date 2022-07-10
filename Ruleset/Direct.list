@@ -1,11 +1,20 @@
+# 个人
 DOMAIN-SUFFIX,njupt.edu.cn
 DOMAIN-SUFFIX,xp.apple.com
+
+# Apple Music
 DOMAIN-SUFFIX,guzzoni.apple.com
+
+# NTP
 DOMAIN-SUFFIX,pool.ntp.org
+
+# PT
 DOMAIN-SUFFIX,www.hdarea.co
 DOMAIN-SUFFIX,hdtime.org
 DOMAIN-SUFFIX,www.pttime.org
 DOMAIN-SUFFIX,hdatmos.club
 DOMAIN-SUFFIX,www.haidan.video
 DOMAIN-SUFFIX,www.hd.ai
+
+# UU
 PROCESS-NAME,uuplugin
