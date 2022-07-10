@@ -2,4 +2,10 @@ DOMAIN-SUFFIX,njupt.edu.cn
 DOMAIN-SUFFIX,xp.apple.com
 DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-SUFFIX,pool.ntp.org
+DOMAIN-SUFFIX,www.hdarea.co
+DOMAIN-SUFFIX,hdtime.org
+DOMAIN-SUFFIX,www.pttime.org
+DOMAIN-SUFFIX,hdatmos.club
+DOMAIN-SUFFIX,www.haidan.video
+DOMAIN-SUFFIX,www.hd.ai
 PROCESS-NAME,uuplugin
