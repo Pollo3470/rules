@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,pool.ntp.org
 PROCESS-NAME,uuplugin
 
 # PT
+DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,www.hdarea.co
 DOMAIN-SUFFIX,hdtime.org
@@ -27,3 +28,4 @@ DOMAIN-SUFFIX,www.hd.ai
 DOMAIN-SUFFIX,carpt.net
 DOMAIN-SUFFIX,ptsbao.club
 DOMAIN-SUFFIX,club.hares.top
+DOMAIN-SUFFIX,u2.dmhy.org
