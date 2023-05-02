@@ -5,3 +5,6 @@ DOMAIN-SUFFIX,openai.com
 
 # Bard
 DOMAIN-SUFFIX,bard.google.com
+
+# Bing
+DOMAIN-SUFFIX,bing.com
