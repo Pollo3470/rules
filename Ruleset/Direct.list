@@ -1,14 +1,8 @@
 # 个人
-DOMAIN-SUFFIX,pollo.fun
 #DOMAIN-SUFFIX,pollochen.tech
-DOMAIN-SUFFIX,njupt.edu.cn
-DOMAIN-SUFFIX,xp.apple.com
 
-# Apple Music
-DOMAIN-SUFFIX,guzzoni.apple.com
-
-# NTP
-DOMAIN-SUFFIX,pool.ntp.org
+# Amy
+DOMAIN-SUFFIX,ghvpie.xyz
 
 # UU
 PROCESS-NAME,uuplugin
