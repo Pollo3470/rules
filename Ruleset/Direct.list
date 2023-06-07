@@ -10,3 +10,6 @@ PROCESS-NAME,uuplugin
 # Plex
 DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
+
+# gradio
+DOMAIN-SUFFIX,gradio.live
