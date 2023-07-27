@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,bard.google.com
 
 # Bing
 DOMAIN-SUFFIX,bing.com
+
+# IDEA
+DOMAIN-SUFFIX,grazie.ai
