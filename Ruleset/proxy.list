@@ -1,4 +1,4 @@
-# PT
+# PT国内
 DOMAIN-SUFFIX,chdbits.co
 DOMAIN-SUFFIX,hdsky.me
 DOMAIN-SUFFIX,kp.m-team.cc
@@ -28,6 +28,11 @@ DOMAIN-SUFFIX,beitai.pt
 #DOMAIN-SUFFIX,greatposterwall.com
 #DOMAIN-SUFFIX,hd.ai
 #DOMAIN-SUFFIX,carpt.net
+
+# PT外站
+DOMAIN-SUFFIX,iptorrents.com
+DOMAIN-SUFFIX,filelist.io
+DOMAIN-SUFFIX,torrentleech.org
 
 # BT
 DOMAIN-SUFFIX,mikanani.me
