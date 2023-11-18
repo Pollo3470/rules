@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,plex.direct
 
 # gradio
 DOMAIN-SUFFIX,gradio.live
+
+# COC
+DOMAIN-SUFFIX,supercell.com
