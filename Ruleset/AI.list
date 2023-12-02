@@ -1,7 +1,3 @@
-# OpenAI(add)
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-
 # Bard
 DOMAIN-SUFFIX,bard.google.com
 
