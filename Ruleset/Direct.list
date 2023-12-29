@@ -18,3 +18,8 @@ DOMAIN-SUFFIX,gradio.live
 # COC
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,clashofclans.com
+
+# Digiwin
+DOMAIN-KEYWORD,digiwin
+DOMAIN-SUFFIX,main.172.16.2.149.nip.io
+DOMAIN-SUFFIX,test-submission.miit-imps.com
