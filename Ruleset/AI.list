@@ -1,8 +1,5 @@
-# Bard
-DOMAIN-SUFFIX,bard.google.com
-
-# Bing
-DOMAIN-SUFFIX,bing.com
+# Gemini
+DOMAIN-SUFFIX,gemini.google.com
 
 # IDEA
 DOMAIN-KEYWORD,grazie
