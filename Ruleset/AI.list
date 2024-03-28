@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,gemini.google.com
 
 # IDEA
 DOMAIN-KEYWORD,grazie
+
+# ChatGPT websocket
+DOMAIN-SUFFIX,webpubsub.azure.com
