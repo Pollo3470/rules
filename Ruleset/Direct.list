@@ -2,7 +2,7 @@
 DOMAIN-SUFFIX,pollochen.tech
 
 # Amy
-DOMAIN,ghvpie.xyz
+#DOMAIN,ghvpie.xyz
 
 # UU
 PROCESS-NAME,uuplugin
@@ -15,8 +15,8 @@ DOMAIN-SUFFIX,plex.direct
 DOMAIN-SUFFIX,gradio.live
 
 # COC
-DOMAIN-SUFFIX,supercell.com
-DOMAIN-SUFFIX,clashofclans.com
+#DOMAIN-SUFFIX,supercell.com
+#DOMAIN-SUFFIX,clashofclans.com
 
 # Digiwin
 DOMAIN-KEYWORD,digiwin
