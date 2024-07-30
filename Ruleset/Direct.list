@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,pollochen.tech
 PROCESS-NAME,uuplugin
 
 # Plex
-DOMAIN-SUFFIX,plex.tv
+#DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
 
 # gradio
