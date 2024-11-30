@@ -7,6 +7,8 @@ PROCESS-NAME,uuplugin
 # Plex
 #DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
+DOMAIN-SUFFIX,v4.plex.tv
+DOMAIN-SUFFIX,direct.plex.tv
 
 # COC
 #DOMAIN-SUFFIX,supercell.com
