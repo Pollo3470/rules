@@ -1,5 +1,5 @@
 # 个人
-DOMAIN-SUFFIX,pollo.me
+DOMAIN-SUFFIX,polloc.me
 
 # UU
 PROCESS-NAME,uuplugin
@@ -16,8 +16,6 @@ DOMAIN-SUFFIX,direct.plex.tv
 
 # Digiwin
 DOMAIN-KEYWORD,digiwin
-DOMAIN-SUFFIX,nip.io
-DOMAIN-SUFFIX,miit-imps.com
 
 # VALORANT
 DOMAIN-SUFFIX,lolstatic-a.akamaihd.net
