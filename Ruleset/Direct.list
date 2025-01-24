@@ -4,6 +4,9 @@ DOMAIN-SUFFIX,polloc.me
 # UU
 PROCESS-NAME,uuplugin
 
+# deepl
+DOMAIN-SUFFIX,deepl.com
+
 # Plex
 #DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,plex.direct
