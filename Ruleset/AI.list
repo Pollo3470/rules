@@ -3,3 +3,6 @@ DOMAIN-SUFFIX,githubcopilot.com
 
 # Groq
 DOMAIN-SUFFIX,groq.com
+
+# OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
