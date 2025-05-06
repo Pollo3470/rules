@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,groq.com
 
 # OpenRouter
 DOMAIN-SUFFIX,openrouter.ai
+
+# NotebookLM
+DOMAIN-SUFFIX,notebooklm.google
