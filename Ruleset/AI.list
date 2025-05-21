@@ -11,8 +11,7 @@ DOMAIN-SUFFIX,openrouter.ai
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 
-# jules
+# Google AI
 DOMAIN-SUFFIX,jules.google.com
-
-# Flow
 DOMAIN-SUFFIX,labs.google
+DOMAIN-SUFFIX,labs.google.com
