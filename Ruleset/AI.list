@@ -13,3 +13,6 @@ DOMAIN-SUFFIX,notebooklm.google.com
 
 # jules
 DOMAIN-SUFFIX,jules.google.com
+
+# Flow
+DOMAIN-SUFFIX,labs.google
