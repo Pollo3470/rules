@@ -15,3 +15,6 @@ DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,jules.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
+
+# Cursor
+DOMAIN-KEYWORD,cursor
