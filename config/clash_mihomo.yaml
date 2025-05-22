@@ -92,23 +92,23 @@ NodeParam: &NodeParam {type: http, interval: 3600, health-check: {enable: true, 
 
 # 锚点 - 节点订阅
 proxy-providers: 
-  provider:
-    url: 'providerUrl'
+  TODO-name:
+    url: 'TODO-providerUrl'
     <<: *NodeParam
-    path: './proxy_providers/provider.yaml'
+    path: './proxy_providers/TODO-provider.yaml'
     override:
-      additional-prefix: "[prefix]" # 为订阅节点添加机场名称前缀
+      additional-prefix: "[TODO-prefix]" # 为订阅节点添加机场名称前缀
 
 proxies:
 - name: "wg"
   type: wireguard
-  ip:
-  private-key:
+  ip: TODO
+  private-key: TODO
   peers:
-    - server:
-      port:
-      public-key:
-      pre-shared-key:
+    - server: TODO
+      port: TODO
+      public-key: TODO
+      pre-shared-key: TODO
       allowed-ips: ['0.0.0.0/0']     # 分流由clash处理
       # reserved: [209,98,59]        # 如果需要自己填
   udp: true
