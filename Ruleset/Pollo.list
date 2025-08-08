@@ -1,11 +1,8 @@
 DOMAIN,home.pollo.live
-DOMAIN,auth.pollo.live
 DOMAIN,bcg.pollo.live
 DOMAIN,cookie.pollo.live
 DOMAIN,iyuu.pollo.live
-DOMAIN,lobe.pollo.live
 DOMAIN,mc.pollo.live
-DOMAIN,minio.pollo.live
 DOMAIN,mp-mcp.pollo.live
 DOMAIN,mr.pollo.live
 DOMAIN,nas.pollo.live
@@ -14,13 +11,10 @@ DOMAIN,qinglong.pollo.live
 DOMAIN,tr1.pollo.live
 DOMAIN,tr.pollo.live
 DOMAIN,home.pollochen.com
-DOMAIN,auth.pollochen.com
 DOMAIN,bcg.pollochen.com
 DOMAIN,cookie.pollochen.com
 DOMAIN,iyuu.pollochen.com
-DOMAIN,lobe.pollochen.com
 DOMAIN,mc.pollochen.com
-DOMAIN,minio.pollochen.com
 DOMAIN,mp-mcp.pollochen.com
 DOMAIN,mr.pollochen.com
 DOMAIN,nas.pollochen.com
